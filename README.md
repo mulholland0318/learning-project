@@ -24,7 +24,7 @@
 * [ruoyi-ant](https://github.com/zhangmrit/ruoyi-ant)  ruoyi-cloud前端工程，使用ant design vue框架 http://ruoyi.ant.zmrit.com
 * [eladmin-web](https://github.com/elunez/eladmin-web) eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由 https://auauz.net
 * [vue-chat](https://github.com/microzz/vue-chat) Vue全家桶+Socket.io+Express/Koa2打造一个智能聊天室
-
+* [iDataV](https://github.com/yyhsong/iDataV)大屏数据可视化 Big screen data visualization demo 
 ## mysql
 ## oracle
 * [RuoYi-baha](https://gitee.com/baha/RuoYi-fast-Oracle) RuoYi单应用Oracle版本
