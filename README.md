@@ -26,6 +26,7 @@
 
 ## mysql
 ## oracle
+* [RuoYi-baha](https://gitee.com/baha/RuoYi-fast-Oracle) RuoYi单应用Oracle版本
 ## sql server
 ## rabbitmq
 ## redis
