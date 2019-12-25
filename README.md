@@ -17,9 +17,13 @@
 * [nutzboot](https://github.com/nutzam/nutzboot)NutzBoot,简称NB,是可靠的企业级微服务框架,提供自动配置,嵌入式web服务,分布式会话,服务治理,负载均衡,hystrix,RPC等一篮子解决方案 
 * [NutzSite](https://gitee.com/TomYule/NutzSite)Java开源企业级开发框架 核心技术采用nutz、nutzboot、Shiro没有任何其它重度依赖。
 * [nutz](https://github.com/nutzam/nutz)Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java develope
+* [qiqiim-server](https://gitee.com/qiqiim/qiqiim-server) QIQIIM 提供简单快捷的IM方案，快速打造在线IM方案，可用于公司内网、外网通讯，客服系统等，已用netty4实现了socket,websocket,现已结合了layim,可用于任何商业、个人作品中 
+* [RuoYi-qiqiim](https://gitee.com/wenhaofan/RuoYi-qiqiim) ruoyi-fast 与qiqiim layim 的整合项目，方便在SpringBoot环境下二次开发qiqiiim 
+
 ## vue 
 * [ruoyi-ant](https://github.com/zhangmrit/ruoyi-ant)  ruoyi-cloud前端工程，使用ant design vue框架 http://ruoyi.ant.zmrit.com
 * [eladmin-web](https://github.com/elunez/eladmin-web) eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由 https://auauz.net
+
 ## mysql
 ## oracle
 ## sql server
