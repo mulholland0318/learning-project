@@ -12,8 +12,10 @@
 * [RuoYi-Process](https://gitee.com/calvinhwang123/RuoYi-Process) 闲鹿工作流是一款基于 RuoYi 4.x + Activiti 6.x + Spring Boot 2.x + Thymeleaf 3.x 的开源工作流管理系统~体验地址：http://proc.iloveu4ever.vip 
 * [RuoYi-plus](https://gitee.com/aimeng2017/RuoYi-plus/tree/master)  RuoYi - plus开源后台管理系统，由SMP管理平台和API接口服务两大模块组成。基于SpringBoot2.x， springcloud G版本的微服务架构体系， 非常适用于公司管理平台旧版本升级、 新平台搭建快速整合、微服务生态系统构建、同时更是接私活利器。 
 * [yshopmall](https://github.com/guchengwuyue/yshopmall) yshop基于当前流行技术组合的前后端分离商城系统： SpringBoot2+Jpa+MybatisPlus+SpringSecurity+jwt+redis+Vue的前后端分离的商城系统， 包含商城、拼团、砍价、商户管理、 秒杀、优惠券、积分、分销等功能
+* [eladmin] (项目基于 Spring Boot 2.1.0 、 Jpa、 Spring Security、redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由 https://auauz.net)
 ## vue 
 * [ruoyi-ant](https://github.com/zhangmrit/ruoyi-ant)  ruoyi-cloud前端工程，使用ant design vue框架 http://ruoyi.ant.zmrit.com
+* [eladmin-web](https://github.com/elunez/eladmin-web) eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由 https://auauz.net
 ## mysql
 ## oracle
 ## sql server
