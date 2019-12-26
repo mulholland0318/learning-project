@@ -25,15 +25,22 @@
 * [eladmin-web](https://github.com/elunez/eladmin-web) eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由 https://auauz.net
 * [vue-chat](https://github.com/microzz/vue-chat) Vue全家桶+Socket.io+Express/Koa2打造一个智能聊天室
 * [iDataV](https://github.com/yyhsong/iDataV)大屏数据可视化 Big screen data visualization demo 
+## js & node
+* [paycard] (vue-interactive-paycard) https://github.com/muhammederdem/vue-interactive-paycard
+* [CodeMirror] (https://github.com/codemirror/codemirror) In-browser code editor
+* [is-website-vulnerable] (https://github.com/lirantal/is-website-vulnerable)finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
 ## mysql
 ## oracle
 * [RuoYi-baha](https://gitee.com/baha/RuoYi-fast-Oracle) RuoYi单应用Oracle版本
 ## sql server
 ## rabbitmq
 ## redis
+## go
+* [grpcui](https://github.com/fullstorydev/grpcui)An interactive web UI for gRPC, along the lines of postman
 ## tidb
 ## linux
 ## python
+* [spleeter](https://github.com/deezer/spleeter) Deezer source separation library including pretrained models.
 ## c
 ## c++
 ## shell
