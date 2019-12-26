@@ -31,6 +31,7 @@
 * [paycard] (vue-interactive-paycard) https://github.com/muhammederdem/vue-interactive-paycard
 * [CodeMirror] (https://github.com/codemirror/codemirror) In-browser code editor
 * [is-website-vulnerable] (https://github.com/lirantal/is-website-vulnerable)finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
+* [mermaid-live-editor](https://github.com/mermaidjs/mermaid-live-editor) Edit, preview and share mermaid charts/diagrams.
 ## mysql
 ## oracle
 * [RuoYi-baha](https://gitee.com/baha/RuoYi-fast-Oracle) RuoYi单应用Oracle版本
