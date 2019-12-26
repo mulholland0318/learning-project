@@ -25,7 +25,9 @@
 * [eladmin-web](https://github.com/elunez/eladmin-web) eladmin前端源码，项目基于 Spring Boot 2.1.0 、 Spring Boot Jpa、 Spring Security、Redis、Vue的前后端分离后台管理系统， 权限控制采用 RBAC，菜单动态路由 https://auauz.net
 * [vue-chat](https://github.com/microzz/vue-chat) Vue全家桶+Socket.io+Express/Koa2打造一个智能聊天室
 * [iDataV](https://github.com/yyhsong/iDataV)大屏数据可视化 Big screen data visualization demo 
+* [tinymce-vue](https://github.com/tinymce/tinymce-vue) Official TinyMCE Vue component
 ## js & node
+* [tinymce](https://github.com/tinymce/tinymce) The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angula
 * [paycard] (vue-interactive-paycard) https://github.com/muhammederdem/vue-interactive-paycard
 * [CodeMirror] (https://github.com/codemirror/codemirror) In-browser code editor
 * [is-website-vulnerable] (https://github.com/lirantal/is-website-vulnerable)finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
